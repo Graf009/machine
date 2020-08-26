@@ -1,0 +1,25 @@
+{
+  "name": "xstate-apollo-client",
+  "version": "1.0.0",
+  "description": "From the \"Get started\" section of the Apollo Client docs.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@apollo/client": "3.0.0-rc.3",
+    "@xstate/inspect": "0.0.5",
+    "@xstate/react": "0.8.1",
+    "graphql": "latest",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-scripts": "3.4.0",
+    "xstate": "4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
